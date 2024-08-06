@@ -1,16 +1,25 @@
-# blog_explorer
+# Blog Explorer
 
-A new Flutter project.
+**Blog Explorer** is a Flutter app that allows users to explore a list of blogs fetched from a RESTful API. The app features a beautiful card-based UI displaying blog titles and images. Users can view detailed blog information and mark blogs as favorites. The app supports lazy loading for efficient data fetching and includes offline support with Hive.
 
-## Getting Started
+## Demonstartion
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/062e10fc-417a-4e97-b7a6-ed030da4de8c
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Features
+- Display a list of blogs with images and titles
+- View detailed blog information
+- Mark blogs as favorites
+- Efficient data loading with lazy loading
+- Offline support using Hive
+
+## Installation
+1. Clone the repository
+2. Run `flutter pub get` to install dependencies
+3. Use `flutter run` to start the app
+
+
